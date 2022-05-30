@@ -1,11 +1,13 @@
 kun hong create a new file called newfile.txt
-2022 5 30
+2022/5/30 2.20pm
 
 kun hong add some lines
-123
 321
 2022/5/30 2.24pm
 
 kun hong add some lines on github
 hello world
 2022/5/30 2.26pm
+
+What is the difference between add, commit, and push?
+add将修改内容提交到缓存区，commit将修改内容提交到本地，push将修改内容提交到远程
