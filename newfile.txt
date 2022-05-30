@@ -1,2 +1,7 @@
 kun hong create a new file called newfile.txt
 2022 5 30
+
+kun hong add some lines
+123
+321
+2022/5/30 2.24pm
